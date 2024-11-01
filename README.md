@@ -4,9 +4,9 @@ This is where I documented my project with Ladies in Tech Data Analysis
 
 [Project Overview](#project-overview).
 
-[Data Sources].(#data-sources).
+[Data Sources](#data-sources).
 
-[Tools Used].(#tools-used).
+[Tools Used](#tools-used).
 
 [Data Cleaning and Preparations].(#data-cleaning-and-preparations).
 
