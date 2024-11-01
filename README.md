@@ -11,11 +11,11 @@ Tools Used
 ### Data Sources
 The primary source of Data used here is Data sales.csv 
 ### Tools Used
-- Microsoft Excel
-- 1. Data cleanining
-2.  Analysts
-3.  Visualisation
-4.  Power BI
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  - Data cleanining
+  - Analysts
+  - Visualisation
+  - Power BI
 - SQL- Structured Query Language for querying data
 - GitHUB for portfolio
 
