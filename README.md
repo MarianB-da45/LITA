@@ -8,11 +8,11 @@ This is where I documented my project with Ladies in Tech Data Analysis
 
 [Tools Used](#tools-used).
 
-[Data Cleaning and Preparations].(#data-cleaning-and-preparations).
+[Data Cleaning and Preparations](#data-cleaning-and-preparations).
 
-[EXPLORATORY Data Analysis].(#exploratory-data-analysis).
+[EXPLORATORY Data Analysis](#exploratory-data-analysis).
 
-[Data Visualization].(#data-visualization).
+[Data Visualization](#data-visualization).
 
 [Data Analysis].(#data_analysis).
 
