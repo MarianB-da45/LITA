@@ -2,19 +2,19 @@
 This is where I documented my project with Ladies in Tech Data Analysis
 ### Project Title: Ecommerce Sales Analysis
 
-[Project Overview].(#project-overview)
+[Project Overview](#project-overview).
 
-[Data Sources].(#data-sources)
+[Data Sources].(#data-sources).
 
-[Tools Used].(#tools-used)
+[Tools Used].(#tools-used).
 
-[Data Cleaning and Preparations].(#data-cleaning-and-preparations)
+[Data Cleaning and Preparations].(#data-cleaning-and-preparations).
 
-[EXPLORATORY Data Analysis].(#exploratory-data-analysis)
+[EXPLORATORY Data Analysis].(#exploratory-data-analysis).
 
-[Data Visualization].(#data-visualization)
+[Data Visualization].(#data-visualization).
 
-[Data Analysis].(#data_analysis)
+[Data Analysis].(#data_analysis).
 
 ### Project Overview
 ---
